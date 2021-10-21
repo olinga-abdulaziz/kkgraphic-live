@@ -1,0 +1,1 @@
+web: gunicorn kkgraphics.wsgi --log-file -
